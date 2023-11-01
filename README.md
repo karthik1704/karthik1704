@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik A</h1>
 <h3 align="center">A passionate web/mobile application developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik1704" alt="karthik1704" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik1704&theme=onedark" alt="karthik1704" /></a> </p>
 
 - 🌱 I’m currently learning **Rust,Flutter,**
 
